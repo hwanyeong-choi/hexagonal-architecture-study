@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: hexagonal-architecture-study
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:9307/board
+    username: root
+    password: local
