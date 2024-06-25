@@ -1,4 +1,4 @@
-package com.example.hexagonalarchitecturestudy.board.application.port.service;
+package com.example.hexagonalarchitecturestudy.board.application.service;
 
 
 import com.example.hexagonalarchitecturestudy.board.application.port.command.RegisterBoardCommand;
