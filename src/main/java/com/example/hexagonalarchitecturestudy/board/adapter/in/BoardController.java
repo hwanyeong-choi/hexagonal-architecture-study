@@ -12,7 +12,6 @@ import java.util.List;
 
 @WebAdapter
 @RequestMapping("/api/v1/board")
-@RestController
 public class BoardController {
 
     private final GetBoardQuery getBoardQuery;
